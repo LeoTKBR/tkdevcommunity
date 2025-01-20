@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/9b4e15a2-d3d3-42e8-931c-0bb187bedcbc" alt="TK-Dev-LogoTibia" width="100" height="auto">
+
 # TK Dev Community - Informações
 
 [![Discord Oficial](https://img.shields.io/discord/1018914467909750784.svg?style=plastic&logo=discord)](https://discord.gg/phJZeHa2k4)
