@@ -52,7 +52,6 @@ function endTaskModalWindow(player, storage)
 					else
 					player:say('Others: '..  info[2]*taskOptions.bonusRate .. ' ' ..ItemType(info[1]):getName(), TALKTYPE_MONSTER_SAY)
 					end
-					player:setStorageValue(storagecheck, player:getStorageValue(storagecheck) + 1)
 				end
 			end
 		else
@@ -82,7 +81,6 @@ function endTaskModalWindow(player, storage)
 					else
 					player:say('Others: '.. ItemType(info[1]):getName() .. '', TALKTYPE_MONSTER_SAY)
 					end
-					player:setStorageValue(storagecheck, player:getStorageValue(storagecheck) + 1)
 				end
 			end
 		end
